@@ -1,5 +1,5 @@
 public class Main {
-
+// Забыл залить пустой проект на Github, этот комментарий написан для создания Pull Request
     public static void main(String[] args) {
         String [][] array = new String[4][4];
         for (int i = 0; i < array.length; i++){
